@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "calculadora-leobot",
+    "react-calc": "react-calculator-fde8b"
+  },
+  "targets": {},
+  "etags": {}
+}
